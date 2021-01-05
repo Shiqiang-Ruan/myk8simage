@@ -1,1 +1,1 @@
-# for undownload images
+# for images that canot pull
